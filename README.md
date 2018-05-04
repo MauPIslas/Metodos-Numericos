@@ -20,7 +20,7 @@ pip -V
 ```
 $ pip install -r requirements.txt
 
-##Instalacion de librerias
+## Instalacion de librerias
 
 Ejecutar el siguiente comando en la terminal, donde se encuentra el archivo requirements.txt:
 
@@ -32,7 +32,7 @@ Si existe algun error, tambien se puede instalar manualmente de la siguiente man
 ```sh
 $ pip install <package name>
 ```
-##Librerías utilizadas
+## Librerías utilizadas
 * Numpy
 * Sympy
 * Matplotlib
